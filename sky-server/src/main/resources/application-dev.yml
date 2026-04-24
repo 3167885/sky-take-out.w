@@ -1,0 +1,8 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: dbprovider.ap-southeast-1.clawcloudrun.com
+    port: 41672
+    database: sky_take_out
+    username: root
+    password: 44lstpq4
